@@ -17,8 +17,8 @@ const Hero = () => {
                 id="home"
                 style={{ backgroundImage: `url(./media/bg-hero.jpg)` }}
             >
-                <h1 className="hero__title">
-                    Coffee
+                <h1 className="hero__title --biggest-font-size">
+                    Slurp
                 </h1>
                 <button className="hero__button" onClick={orderNow}>Order Now</button>
             </section>

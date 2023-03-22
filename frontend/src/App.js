@@ -26,23 +26,6 @@ function App() {
       <Footer />
       </main>
     </>
-
-
-
-
-    // <>
-    // <Router>
-    //   <UserContext.Provider value={{valid, setValid}}>
-    //   <Navbar />
-    //   <Routes>
-    //     <Route path='/' element={<Home/>} />
-    //     <Route path='/NewItem' element={<NewItem/>} />
-    //     <Route path='/SignIn' element={<SignIn/>} />
-    //     <Route path='/Settings' element={<Settings/>} />
-    //   </Routes>
-    //   </UserContext.Provider>
-    // </Router>
-    // </>
   );
 }
 

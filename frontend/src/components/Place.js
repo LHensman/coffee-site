@@ -35,10 +35,10 @@ const Place = () => {
                     </div>
 
                     <div className="place__data">
-                        <h2 className="place__title">Find a place you love</h2>
+                        <h2 className="place__title">Find a place for you</h2>
                         <p className="place__description">
-                            We provide the best place to stay productive <br />
-                            and focus with good vibes.
+                            Good place to hang out<br />
+                            or study
                         </p>
                     </div>
                 </div>

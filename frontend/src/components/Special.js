@@ -8,8 +8,8 @@ const Special = () => {
         <div className="special__box">
           <Fade left delay={200}>
             <h2 className="section__title">
-              Best coffees that make you <br />
-              happy and cheer you up!
+              Advertisement for <br />
+              best coffee
             </h2>
           </Fade>
 

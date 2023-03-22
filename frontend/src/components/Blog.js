@@ -5,8 +5,8 @@ const Blog = () => {
         <section className="blog section" id="blog">
             <div className="blog__container container">
                 <h2 className="section__title">
-                    Our blogs coffee with <br />
-                    insightful topic
+                    Blogs at the  <br />
+                    Bottom
                 </h2>
 
                 <div className="blog__content grid">
@@ -31,8 +31,8 @@ const Blog = () => {
                         <div className="blog__data">
                             <h2 className="blog__title">How to grow coffee beans</h2>
                             <p className="blog__description">
-                                The blogs about coffee will help you a lot about how to grow
-                                coffee beans with hign standard.
+                                Here you can learn about how to grow coffee
+                                to a high standard.
                             </p>
                         </div>
                     </article>
@@ -55,10 +55,10 @@ const Blog = () => {
                         </div>
 
                         <div className="blog__data">
-                            <h2 className="blog__title">How to make coffee for beginner</h2>
+                            <h2 className="blog__title">How to make coffee for beginners</h2>
                             <p className="blog__description">
-                                The blogs about coffee will help you a lot about how to make a
-                                coffee with a good place coffee.
+                                Here you can learn about how to make good tasting coffee 
+                                from your beans.
                             </p>
                         </div>
                     </article>

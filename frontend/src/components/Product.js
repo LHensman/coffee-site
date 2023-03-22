@@ -11,8 +11,8 @@ const Product = () => {
             <div className="products__container container">
                 <Fade left delay={200}>
                     <h2 className="section__title">
-                        Find delicious food and <br />
-                        choose what you love
+                        Menu for delicious <br />
+                        foods
                     </h2>
                 </Fade>
 
